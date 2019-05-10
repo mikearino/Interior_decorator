@@ -17,4 +17,9 @@ img {
 h1 {
   text-align: center;
   color: white;
+  font-family: monospace;
+}
+
+p {
+  font-family: monospace;
 }
